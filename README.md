@@ -6,7 +6,7 @@ This is a text corpus of over 5,500 English SMS messages with ~13% labeled as sp
 **Background**: You work for a telecom company that is launching a new messaging app. Unfortunately, previous spam filters that they have used are out of date and no longer effective. They have asked you whether you can use new data they have supplied to distinguish between spam and regular messages accurately. They have also told you that it is essential that regular messages are rarely, if ever, categorized as spam.<br>
 
 **Objective**:  Build a streamlit web app to  detect spam accurately <br>
-**Techniques Used**:Exploratory Data Analysis, Data Visualization,, Predictive Modeling,Web Frameworks, RESTful APIs, Containerization <br>
+**Techniques Used**: Exploratory Data Analysis, Data Visualization,, Predictive Modeling,Web Frameworks, RESTful APIs, Containerization <br>
 **Type of Problem**: Binary Classification <br>
 **Language, Libraries, technologies used**: Python, Pandas, Matplotlib, Seaborn,Numpy,wordcloud,String,nltk,Scikit-learn,pickle, Docker,flask,Streamlit <br>
 
