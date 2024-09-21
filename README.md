@@ -11,7 +11,7 @@ This is a text corpus of over 5,500 English SMS messages with ~13% labeled as sp
 **Language, Libraries, technologies used**: Python, Pandas, Matplotlib, Seaborn, Numpy,word cloud, String, Nltk, Scikit-learn, pickle, Docker, flask, Streamlit <br>
 
 
-[Source](https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/) of dataset. This corpus was created by  [Tiago A. Almeida](https://www.servidores.ufscar.br/talmeida/) and José María Gómez Hidalgo.
+[Source](https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/) of the dataset. This corpus was created by  [Tiago A. Almeida](https://www.servidores.ufscar.br/talmeida/) and José María Gómez Hidalgo.
 
 **Citations**: 
 
