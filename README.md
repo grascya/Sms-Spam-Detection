@@ -3,10 +3,10 @@
 # SMS Spam Collection
 This is a text corpus of over 5,500 English SMS messages with ~13% labeled as spam. The text file contains one message per line with two columns: the label ("ham" or "spam") and the raw text of the message. Messages labeled as "ham" are non-spam messages considered legitimate. 
 
-**Background**: You work for a telecom company launching a new messaging app. Unfortunately, the previous spam filters that they used were out of date and no longer effective. They have asked you whether you can use new data they supplied to accurately distinguish between spam and regular messages. They have also told you that it is essential that regular messages are rarely if ever, categorized as spam. <br>
+**Background**: You work for a telecom company launching a new messaging app. Unfortunately, the previous spam filters that they used were out of date and no longer effective. They have asked you whether you can use new data they supplied to distinguish between spam and regular messages accurately. They have also told you that it is essential that regular messages are rarely if ever, categorized as spam. <br>
 
 **Objective**:  Build a streamlit web app to  detect spam accurately <br>
-**Techniques Used**: Exploratory Data Analysis, Data Visualization,, Predictive Modeling, Web Frameworks, RESTful APIs, Containerization . <br>
+**Techniques Used**: Exploratory Data Analysis, Data Visualization,, Predictive Modeling, Web Frameworks, RESTful APIs, Containerization. <br>
 **Type of Problem**: Binary Classification <br>
 **Language, Libraries, technologies used**: Python, Pandas, Matplotlib, Seaborn, Numpy, word cloud, String, Nltk, Scikit-learn, pickle, Docker, flask, Streamlit .<br>
 
